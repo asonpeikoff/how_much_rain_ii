@@ -3,7 +3,7 @@
 # Matthew T. Boulanger
 # University of Missouri Research Reactor
 
-# Modifications by Jason D. Miller, hack-r.com / millerintllc.com
+# Modifications by Ason Peikoff, hack-r.com / millerintllc.com
 
 #Script uses AMELIA II to impute missing values in a test.
 #Automatically creates a file entitled "imputed_data.csv" in your working directory

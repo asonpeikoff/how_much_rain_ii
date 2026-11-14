@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------
 # File:        rain_master.R
-# Author:      Jason D. Miller
+# Author:      Ason Peikoff
 # Contact:     millerintllc@gmail.com
 # Description: This is the main file for running scripts related to 
 #               the Kaggle.com "How Much Did It Rain? II" competition

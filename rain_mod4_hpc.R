@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------
 # File:        rain_mod4_hpc.R
-# Author:      Jason D. Miller
+# Author:      Ason Peikoff
 # Contact:     millerintllc@gmail.com
 # Description: This script takes advantage of doParallel for the trees and
 #                 is based on the best small-data performing model, mod4

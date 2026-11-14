@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------
 # File:        rain_functions.R
-# Author:      Jason D. Miller
+# Author:      Ason Peikoff
 # Contact:     millerintllc@gmail.com
 # Description: This loads libraries, functions, and options
 # ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ myAmelia <- function (test, iterations = 10) {
   # Matthew T. Boulanger
   # University of Missouri Research Reactor
 
-  # Modifications by Jason D. Miller, hack-r.com / millerintllc.com
+  # Modifications by Ason Peikoff, hack-r.com / millerintllc.com
 
   #Set no. of iterations
   iter = iterations
