@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------
 # File:        rain_report.R
-# Author:      Jason D. Miller
+# Author:      Ason Peikoff
 # Contact:     millerintllc@gmail.com
 # Description: This script runs the best model on the unlabeled test data
 # ------------------------------------------------------------------------

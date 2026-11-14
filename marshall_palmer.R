@@ -1,5 +1,5 @@
 # From Troy Walters on Kaggle (thanks!)
-# A few small changes by Jason Miller, hack-r.com
+# A few small changes by Ason Peikoff, hack-r.com
 
 ## This is an R implementation of sample_dask.py. It uses the Marshall-Palmer relation
 ## to calculate hourly rain rates for each Id. It produces a submission file identical 

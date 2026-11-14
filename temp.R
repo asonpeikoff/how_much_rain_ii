@@ -2,7 +2,7 @@ iterations <- 5
 # Matthew T. Boulanger
 # University of Missouri Research Reactor
 
-# Modifications by Jason D. Miller, hack-r.com / millerintllc.com
+# Modifications by Ason Peikoff, hack-r.com / millerintllc.com
 
 #Set no. of iterations
 iter = iterations

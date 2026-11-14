@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------
 # File:        rain_analysis.R
-# Author:      Jason D. Miller
+# Author:      Ason Peikoff
 # Contact:     millerintllc@gmail.com
 # Description: This script performs analysis, model building and testing
 # ------------------------------------------------------------------------
